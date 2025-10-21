@@ -213,9 +213,6 @@ h6,
     color: var(--light);
 }
 
-.nav-logo img{
-    width: 280px;
-}
 
 /*** Top Feature ***/
 @media (min-width: 991.98px) {
